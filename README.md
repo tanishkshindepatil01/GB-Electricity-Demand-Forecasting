@@ -3,7 +3,6 @@
 A planned Python and Tableau portfolio project exploring electricity demand in Great Britain, evaluating demand forecasts, and investigating differences between forecasts and actual outcomes.
 
 **Author:** Tanishk Nanasaheb Shinde  
-**Status:** Planned / in development  
 **Dashboard scope:** 12 Tableau worksheets across 3 interactive dashboards
 
 ## Project Overview
