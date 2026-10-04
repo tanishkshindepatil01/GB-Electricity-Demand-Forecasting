@@ -22,7 +22,7 @@ The analysis will focus on reproducible data preparation, chronological forecast
 
 ## Data Sources
 
-| Source | Planned use |
+| Source | use |
 | --- | --- |
 | [NESO Historic Demand Data 2025](https://www.neso.energy/data-portal/historic-demand-data/historic_demand_data_2025) | Primary CSV source for half-hourly national demand and contextual electricity-system variables. |
 | [NESO Historic Demand Data](https://www.neso.energy/data-portal/historic-demand-data) | Additional historical years, if required for model training. |
@@ -43,7 +43,7 @@ Published NESO forecasts cover specific cardinal points and daily peak/trough wi
 
 ### Dashboard 1: Electricity Demand Overview
 
-| Worksheet | Title | Planned visual |
+| Worksheet | Title | visual |
 | --- | --- | --- |
 | 01 | National Demand Over Time | Time-series line chart |
 | 02 | Average Intraday Demand Profile | Demand by half-hour of day |
@@ -52,7 +52,7 @@ Published NESO forecasts cover specific cardinal points and daily peak/trough wi
 
 ### Dashboard 2: Forecast Performance
 
-| Worksheet | Title | Planned visual |
+| Worksheet | Title | visual |
 | --- | --- | --- |
 | 05 | Actual vs Forecast Demand | Actual and predicted demand lines |
 | 06 | Baseline vs Model Accuracy | MAE and RMSE comparison |
@@ -61,7 +61,7 @@ Published NESO forecasts cover specific cardinal points and daily peak/trough wi
 
 ### Dashboard 3: Variance Investigation & Data Quality
 
-| Worksheet | Title | Planned visual |
+| Worksheet | Title | visual |
 | --- | --- | --- |
 | 09 | Forecast Error Calendar | Daily error heatmap |
 | 10 | Largest Forecast Deviations | Ranked error periods |
