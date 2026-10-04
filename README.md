@@ -90,7 +90,7 @@ Planned dashboard controls include date-range filters, model selection where rel
 
 A demand value in MW measures power. Energy totals in MWh will be calculated using interval duration rather than by directly summing MW values.
 
-## Planned Deliverables
+## Deliverables
 
 A reproducible Python notebook, validated Tableau-ready data, a Tableau workbook with 12 worksheets and 3 dashboards, dashboard screenshots, and a concise findings summary will be added after completion.
 
