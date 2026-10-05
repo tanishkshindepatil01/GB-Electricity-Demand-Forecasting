@@ -66,4 +66,4 @@ The `dashboards/` and `sheets/` folders contain PNG snapshots of the workbook vi
 - [NESO Historic Demand Data](https://www.neso.energy/data-portal/historic-demand-data) and the [2025 dataset page](https://www.neso.energy/data-portal/historic-demand-data/historic_demand_data_2025) supply the annual source files.
 - The analysis and dashboard are an independent portfolio project and are not endorsed by NESO.
 
-To publish as a navigable GitHub repository, **extract the ZIP and upload its contents** (or push the folder with Git). Uploading the ZIP alone to a repository leaves it as a single downloadable file.
+
